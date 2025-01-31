@@ -2,8 +2,8 @@
 
 <div>
   <a hrfe="https://github.com/SwordBr019">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swordbr019&show_icons=true&theme=dracula"
-  <img height="180em" src="
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swordbr019&show_icons=true&theme=dracula"/> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swordbr019&layout=compact&theme=dracula"/>
   
 </div>
 
